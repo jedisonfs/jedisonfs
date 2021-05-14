@@ -38,5 +38,8 @@ ___
 [![Generic badge](https://img.shields.io/badge/Postgres-✓-brightgreen.svg?style=flat&labelColor=blue&logo=postgresql)](https://www.postgresql.org/)
 ___
 [<img src='https://www.vectorlogo.zone/logos/github/github-icon.svg' alt='github' height='40'>](https://github.com/jedisonfs)  [<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jedisonfs//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jedisonfs)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jedisonfs&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/jedisonfs)  
