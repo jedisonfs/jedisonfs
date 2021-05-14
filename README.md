@@ -36,8 +36,7 @@ ___
 ### :minidisc: Database technologies & Structured Query Language
 [![Generic badge](https://img.shields.io/badge/MySQL-✓-brightgreen.svg?style=flat&labelColor=black&logo=mysql)](https://www.mysql.com/)
 [![Generic badge](https://img.shields.io/badge/Postgres-✓-brightgreen.svg?style=flat&labelColor=blue&logo=postgresql)](https://www.postgresql.org/)
-
-__
+___
 [<img src='https://www.vectorlogo.zone/logos/github/github-icon.svg' alt='github' height='40'>](https://github.com/jedisonfs)  [<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jedisonfs//)  
 
 ![Profile views](https://gpvc.arturio.dev/jedisonfs)  
