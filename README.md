@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 ### :pushpin: Other tools
 
-[![Generic badge](https://img.shields.io/badge/GIT-✓-brightgreen.svg?style=flat-square&logo=appveyor=git&labelColor=blue)](https://git-scm.com/)
-[![Generic badge](https://img.shields.io/badge/AWS-✓-brightgreen.svg?style=flat-square&logo=appveyor=amazon-aws&labelColor=black)](https://aws.amazon.com/es/)
+[![Generic badge](https://img.shields.io/badge/GIT-✓-brightgreen.svg?style=flat-square&logo=appveyor=git&labelColor=orange)](https://git-scm.com/)
+[![Generic badge](https://img.shields.io/badge/AWS-✓-brightgreen.svg?style=flat-square&logo=appveyor=amazon-aws&labelColor=yellow)](https://aws.amazon.com/es/)
 [![Generic badge](https://img.shields.io/badge/Windows-✓-brightgreen.svg?style=flat-square&logo=appveyor=windows&labelColor=blue)](https://www.microsoft.com/es-co/windows)
 [![Generic badge](https://img.shields.io/badge/Bash-✓-brightgreen.svg?style=flat-square&logo=appveyor=gnu-bash&labelColor=black)](https://www.gnu.org/software/bash/manual/bash.html)
 [![Generic badge](https://img.shields.io/badge/Eclipse-✓-brightgreen.svg?style=flat-square&logo=appveyor=eclipse&labelColor=purple)](https://www.eclipse.org/)
