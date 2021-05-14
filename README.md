@@ -22,9 +22,20 @@ ___
 Skills: JAVA / SPRING-BOOT / ANGULAR / JS / HTML / CSS
 
 - 📫 How to reach me: edisonferia4@gmail.com 
+___
+### Main programming language
 
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javaScript" width="50" height="50"/>
-<a target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="50" height="50"/> </a> </p>
+[![Generic badge](https://img.shields.io/badge/Java-✓-brightgreen.svg?style=flat&logo=java&labelColor=black)](https://sdkman.io/)
+
+### Other languages
+[![Generic badge](https://img.shields.io/badge/HTML5-✓-brightgreen.svg?style=flat&logo=html5&labelColor=black)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![Generic badge](https://img.shields.io/badge/CSS-✓-brightgreen.svg?style=flat&logo=css3&labelColor=orange)](https://developer.mozilla.org/es/docs/Web/CSS)
+[![Generic badge](https://img.shields.io/badge/JavaScript-✓-brightgreen.svg?style=flat&logo=javascript&labelColor=black)](https://javascript.info/)
+[![Generic badge](https://img.shields.io/badge/TypeScript-✓-brightgreen.svg?style=flat&logo=typescript&labelColor=blue)](https://www.typescriptlang.org/docs/home.html)
+___
+### :minidisc: Database technologies & Structured Query Language
+[![Generic badge](https://img.shields.io/badge/MySQL-✓-brightgreen.svg?style=flat&labelColor=black&logo=mysql)](https://www.mysql.com/)
+[![Generic badge](https://img.shields.io/badge/Postgres-✓-brightgreen.svg?style=flat&labelColor=blue&logo=postgresql)](https://www.postgresql.org/)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jedisonfs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jedisonfs//)  
