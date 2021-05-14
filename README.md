@@ -14,26 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## My Skills 
+### Hi there 👋, my name is Jhon Feria
+I am Java Junior Developer, passionate about technology
+***
+Skills: JAVA / SPRING-BOOT / ANGULAR / JS / HTML / CSS
 
-### Main programming language
+- 🔭 I’m currently working on this page. 
+- 📫 How to reach me: edisonferia4@gmail.com 
 
-[![Generic badge](https://img.shields.io/badge/Java-✓-brightgreen.svg?style=flat&logo=java&labelColor=black)](https://sdkman.io/)
 
-### Other languages
-[![Generic badge](https://img.shields.io/badge/HTML5-✓-brightgreen.svg?style=flat-square&logo=appveyor=html5&labelColor=black)](https://developer.mozilla.org/es/docs/Web/HTML)
-[![Generic badge](https://img.shields.io/badge/CSS-✓-brightgreen.svg?style=flat&logo=css3&labelColor=orange)](https://developer.mozilla.org/es/docs/Web/CSS)
-[![Generic badge](https://img.shields.io/badge/JavaScript-✓-brightgreen.svg?style=flat-square&logo=appveyor=javascript&labelColor=black)](https://javascript.info/)
-[![Generic badge](https://img.shields.io/badge/TypeScript-✓-brightgreen.svg?style=flat-square&logo=appveyor=appveyortypescript&labelColor=blue)](https://www.typescriptlang.org/docs/home.html)
-### :minidisc: Database technologies 
-[![Generic badge](https://img.shields.io/badge/MySQL-✓-brightgreen.svg?style=flat-square&logo=appveyor=mysql)](https://www.mysql.com/)
-[![Generic badge](https://img.shields.io/badge/Postgres-✓-brightgreen.svg?style=flat-square&logo=appveyor=postgresql)](https://www.postgresql.org/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jedisonfs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jedisonfs//)  
 
-### :pushpin: Other tools
-
-[![Generic badge](https://img.shields.io/badge/GIT-✓-brightgreen.svg?style=flat-square&logo=appveyor=git&labelColor=orange)](https://git-scm.com/)
-[![Generic badge](https://img.shields.io/badge/AWS-✓-brightgreen.svg?style=flat-square&logo=appveyor=amazon-aws&labelColor=yellow)](https://aws.amazon.com/es/)
-[![Generic badge](https://img.shields.io/badge/Windows-✓-brightgreen.svg?style=flat-square&logo=appveyor=windows&labelColor=blue)](https://www.microsoft.com/es-co/windows)
-[![Generic badge](https://img.shields.io/badge/Bash-✓-brightgreen.svg?style=flat-square&logo=appveyor=gnu-bash&labelColor=black)](https://www.gnu.org/software/bash/manual/bash.html)
-[![Generic badge](https://img.shields.io/badge/Eclipse-✓-brightgreen.svg?style=flat-square&logo=appveyor=eclipse&labelColor=purple)](https://www.eclipse.org/)
-[![Generic badge](https://img.shields.io/badge/Vscode-✓-brightgreen.svg?style=flat-square&logo=appveyor=visual-studio-code&labelColor=blue)](https://code.visualstudio.com/)
+![Profile views](https://gpvc.arturio.dev/jedisonfs)  
